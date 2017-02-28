@@ -1,1 +1,5 @@
-Titan to whose immortal eyes, Seen in their sad reality
+<<<<<< HEAD
+Titan to whose immortal eyes,
+The sufferings of mortality
+Seen in their sad reality
+>>>>>>> 0e5841ca252658b01e54a03ddbbc9c5e52e73e12
